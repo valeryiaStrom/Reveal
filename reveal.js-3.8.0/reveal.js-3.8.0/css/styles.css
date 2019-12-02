@@ -1,0 +1,20 @@
+.wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-align: left;
+}
+
+.slide img {
+  max-width: 50%;
+  margin-right: 10px;
+}
+
+#slide__text {
+  margin-left: 20px;
+  padding-top: 25px;
+}
+/*# sourceMappingURL=styles.css.map */
